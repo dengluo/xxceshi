@@ -37,7 +37,7 @@ public class KfActivity extends AppCompatActivity {
             }
         });
 
-//        webView.loadUrl("https://tb.53kf.com/code/app/10189955/1?device=android");
+//        webView.loadUrl("https://tb.53kf.com/code/app/10189955/1?device=android1");
         webView.loadUrl("https://tb.53kf.com/code/client/10189955/1?device=android&u_cust_name=胡铁花&u_cust_id=1232");
         /* 设置支持Js,必须设置的,基本大多数网页都涉及js */
         webView.getSettings().setJavaScriptEnabled(true);
